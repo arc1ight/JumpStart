@@ -32,7 +32,7 @@ def print_birthday_info(days):
     elif days > 0:
         print('You had your birthday already this year.  It was {} days ago.'.format(days))
     else:
-        print('Your birthday is today!  Happy Birthday!')
+        print('Your birthday is today!  Happy Birthday!!!')
 
 
 def main():
